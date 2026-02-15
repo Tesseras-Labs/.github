@@ -1,27 +1,34 @@
-## Hi there 👋
+# Tesseras Labs S.A. 🇵🇦
+Panama City, Republic of Panama
 
-<!--
+Compliant infrastructure for real-world asset tokenization and market access.
 
-**Here are some ideas to get you started:**
+Tesseras Labs builds **RWADEX.ai**: a platform suite for issuing compliant real-world asset tokens, operating issuer workflows, and enabling compliant discovery, trading, and liquidity access.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-## What Tesseras Labs Builds
+We build infrastructure first.  
+We do **not** operate funds, provide investment advice, or act as a broker-dealer.
 
-Tesseras Labs develops open infrastructure for compliant real-world assets, including:
+## Who We Serve
+- **Issuers** launching and operating compliant tokenized assets
+- **Investors and market participants** seeking compliant access and transparency
+- **Liquidity and execution partners** supporting routing and market infrastructure
 
-- Tokenization standards and smart contracts
-- Onchain and offchain orchestration for RWAs
-- APIs and developer tooling for issuers and partners
-- Reference implementations and experimental prototypes
+## Product Principles
+- Compliance is part of the product, not a wrapper around it
+- Self-custody is the default assumption
+- Durability over short-term hype
+- Clear policy over implicit behavior
 
-- ## Open Source & Transparency
+## Ecosystem & Collaboration 🤝
+Public open-source repositories are not yet available.
 
-Some repositories in this organization are public reference implementations or upstream mirrors.
-Others are private and maintained internally as part of Tesseras Labs’ platform operations.
+This organization is intended to become a landing place for:
+- Reference implementations and interoperability tooling
+- Joint technical initiatives with ecosystem and institutional partners
+- Public artifacts that strengthen transparent market infrastructure
 
-Public repositories are shared for education, interoperability, and ecosystem development.
+If you are exploring collaboration with Tesseras Labs, we welcome direct outreach.
+
+## Additional Context
+- [Corporation Overview](../CORPORATION.md)
+- [Founder Principles](../FOUNDER.md)
