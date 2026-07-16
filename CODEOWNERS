@@ -1,3 +1,33 @@
-# TODO(developer): set code ownership rules for this repository.
-# Example:
-# * @Tesseras-Labs/platform
+# Default ownership for the organization profile repository.
+* @sc10n-eth
+
+# Organization profile and public identity.
+/README.md @sc10n-eth
+/profile/README.md @sc10n-eth
+/CORPORATION.md @sc10n-eth
+/FOUNDER.md @sc10n-eth
+
+# Architecture, delivery, and operational posture.
+/ARCHITECTURE.md @sc10n-eth
+/DEPLOYMENT.md @sc10n-eth
+/DESIGN.md @sc10n-eth
+/ENVIRONMENTS.md @sc10n-eth
+/INFRASTRUCTURE.md @sc10n-eth
+/MONITORING.md @sc10n-eth
+/OPERATIONS.md @sc10n-eth
+/TESTING.md @sc10n-eth
+/TECHNOLOGIES.md @sc10n-eth
+
+# Security, governance, and collaboration.
+/AGENTS.md @sc10n-eth
+/CLAUDE.md @sc10n-eth
+/CODEOWNERS @sc10n-eth
+/CODE_OF_CONDUCT.md @sc10n-eth
+/CONTRIBUTING.md @sc10n-eth
+/SECURITY.md @sc10n-eth
+/TEAM.md @sc10n-eth
+
+# Portfolio and repository stewardship.
+/CHANGELOG.md @sc10n-eth
+/OPENSOURCE.md @sc10n-eth
+/PROJECTS.md @sc10n-eth
