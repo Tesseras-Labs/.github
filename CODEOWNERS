@@ -20,7 +20,6 @@
 
 # Security, governance, and collaboration.
 /AGENTS.md @sc10n-eth
-/CLAUDE.md @sc10n-eth
 /CODEOWNERS @sc10n-eth
 /CODE_OF_CONDUCT.md @sc10n-eth
 /CONTRIBUTING.md @sc10n-eth
